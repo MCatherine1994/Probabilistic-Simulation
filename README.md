@@ -4,8 +4,8 @@
   * Considering the problem of generating a random sample from a specified distribution on a single variable. You can assume that a random number generator is available that returns a random number uniformly distributed between 0 and 1. Let X be a discrete variable with P(X = xi) = pi for i 1, ..., k. The cummulative distribution of X gives the probability X x1, ..., xj for each possible j.  
   * Visualizing the board and associated probabilities in color.  
 ### **Note**:
-#### **[Install jupyter notebook](http://jupyter.org/install)**:  
-[Sample for random variable](https://connex.csc.uvic.ca/access/content/group/7961b163-7f3f-42e5-bb82-d17069d39906/Notebooks/data_mining_random_variables.ipynb)
+#### **[Install jupyter notebook](http://jupyter.org/install)**  
+#### **[Sample for random variable](https://connex.csc.uvic.ca/access/content/group/7961b163-7f3f-42e5-bb82-d17069d39906/Notebooks/data_mining_random_variables.ipynb)**
 
 #### **Generate random variables**:
 ```
